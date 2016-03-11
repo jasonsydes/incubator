@@ -6,7 +6,7 @@ In miRNAs, the many variations that can be observed are (highlighted the most co
 
 -	3’ modifications:
   -	**Nucleotide deletions**
-  - **Non-templated nucleotide additions**
+  - **Non-templatedddd nucleotide additions**
   - **Templated nucleotide additions**
 -	5’ modifications:
   - **Nucleotide deletions (-> Seed-shift)**
