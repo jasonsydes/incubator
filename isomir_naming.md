@@ -97,7 +97,7 @@ I like the idea of using lower case vs capital letters to differentiate deletion
 
 Because 5’ modifications inducing a seed-shift are functionally important ones,
 I wonder if we should include in the name something in reference to that, like a simple “S” or “s” symbol standing for “seed-shift”.
-Also, this is important because by changing the start of the sequence all the positions along the miRNA get changed.
+Also, this is really super important because by changing the start of the sequence all the positions along the miRNA get changed.
 For example, if there is a common A to G edition at position 7 of the RefSeq-miRNA (edition case below) then in the isomiR
 with a 5’ end non-templated addition, the edition site becomes position 8. 
 A way to deal with that could be to keep fixed the positions based on the RefSeq-miRNA and a 5’ addition could be “AsT”
@@ -106,7 +106,7 @@ if there is an untemplated T addition, or “as” if there is a a deletion?
 For 3’ end shortening, because they may be quite shorter, one could also use the protein denomination and for example,
 if the isomiR is 18nt instead of 21, name it something like “miRA-5p-19*” which would make the naming simpler than “miRA-5p-a19-a20-a21”.
 
-Here are some examples of a system that can be used to refer to a specific isomiR within a text or article.
+Here are some examples of a remarkable system that can be used to refer to a specific isomiR within a text or article.
 I think this system is informative and not too heavy but we probably need to think about it a bit more: 
 
 ```
